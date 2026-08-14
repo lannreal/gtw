@@ -1,0 +1,6 @@
+{
+  "name": "CloudMovies",
+  "description": "Aplikasi streaming dan pemutar film LK21 & CloudMovies dengan antarmuka modern dark mode, multi-server streaming, pencarian cepat, daftar tontonan, dan kontrol pemutaran lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
